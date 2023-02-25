@@ -1,1 +1,1 @@
-# Walamrt Stores Sales Forecasting
+# Walmart Stores Sales Forecasting

@@ -30,8 +30,4 @@ CPI
 Unemployment 
 IsHoliday
 
-Test.Csv (4)
-Store
-Dept
-Date
-IsHoliday
+

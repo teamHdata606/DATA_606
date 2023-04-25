@@ -1,4 +1,4 @@
-# Walmart Stores Sales Forecasting
+## Walmart Stores Sales Forecasting
 
 Link to the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 

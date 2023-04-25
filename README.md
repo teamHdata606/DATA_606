@@ -36,3 +36,15 @@ IsHoliday
 * Considering records which are having positive weekly_sales.
 * Merging the markdown columns into one unified column.
 
+### Model Classification
+* Step 1 : We are splitting the 45 stores into 30 and 15
+* Step 2 : And then again we are splitting the 30 stores into 20 and 10 stores.
+* Step 3 : Then we train and test  20 and 10 stores individually 
+
+#### We performed four types of Machine learning algorithms which are listed below:
+* Linear Regression.
+* Decision Tree.
+* Random Forest.
+* XGBoost.
+
+* Among those ML algorithms Rnadom forest gave some pretty good accuracy levels.

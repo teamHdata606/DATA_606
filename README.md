@@ -30,6 +30,10 @@ CPI
 Unemployment 
 IsHoliday
 
+### Brief Literature
+* ##### Time series analysis: Several studies have used time series analysis to forecast Walmart's sales. For instance, Cheema and Bhatnagar (2021) used the seasonal autoregressive integrated moving average (SARIMA) model to predict Walmart's sales. They found that SARIMA outperforms other traditional forecasting models, such as exponential smoothing and ARIMA. Similarly, Liu and Liu (2019) applied the Holt-Winters method to forecast Walmart's sales at the store level. They found that the method outperforms other time series models in terms of accuracy.
+
+
 
 ### Steps taken before Performing Exploratory Data Analysis.
 * Merging the existing three datasets into one.

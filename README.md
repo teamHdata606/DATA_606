@@ -61,8 +61,28 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 * Merging the markdown columns into one unified column.
 
 ### Exploratory Data Analysis
-* Corealation matrix on finilized and cleaned dataset features
-* 
+
+* Correlation matrix on finilized and cleaned dataset features
+
+* Average weekly Sales of the company of all the stores in given timeframe, This shows the average weekly sales of the company across all its stores in the given timeframe.The highest average weekly sales were seen inthe month of December, while the lowest were in the months of May and June. This indicates that the company is doing well in terms of sales, as well as having a consistent customer base.
+
+* Average weekly Sales by Year, According to the company's average weekly sales by type of the store graph, Type A stores had the highest average weekly sales, followed by Type B and Type C. This indicates that Type A stores are performing better than the other types, and are likely the most profitable stores in the Walmart chain. It also suggests that Walmart should focus its efforts on increasing the sales of Type A stores.
+
+* Average weekly Sales of the company by type of the store, This shows the average weekly sales of the company by type of store. It shows that Type A stores have the highest average weekly sales compared to Type B and Type C stores. Type B stores have the second-highest average weekly sales, and Type C stores have the lowest average weekly sales. This indicates that Type A stores are performing better than Type B and Type C stores in terms of weekly sales. It also shows that there is a significant difference in the performance between the different store types. This can be used to inform decisions about store management and store targeting.
+
+* Sizes of all the stores, This visualization helps to quickly identify which stores are the largest and smallest in terms of size. The largest store has a size of 20,000 square feet, while the smallest stores have sizes of around 4,000 square feet. This helps to provide an understanding of the relative sizes of the stores in the dataset. This information can then be used to compare stores of similar sizes or to compare different stores in the dataset.
+
+* Actual sales, This scatter plot shows the relationship between the date and weekly sales of stores in the dataset. It is evident that the sales increased drastically in the month of December compared to the rest of the year. It also indicates that the sales were higher in the later months of the year, which could be attributed to the holiday season. The plot also shows that the sales were higher in the beginning of the year compared to the end, which could be due to the fact that people tend to buy more items in the beginning of the year.
+
+* Average Monthly Sales, through this bar plot the highest sales usually occur in November and December. The sales drop off in the early months of the year, but steadily increase throughout the summer months, peaking in November. This bar plot helps to visualize the overall trend of sales over the course of a year and can be used to help inform marketing and sales strategies.
+
+* Umemployment rate, The data indicates that the unemployment rate for each store varies, with some stores having a higher unemployment rate than others. This could be an indication of the local economy and the demand for jobs in the area, which could have an impact on the store's sales.
+
+* Calculating the sales for each type of store, It gives us an idea of the trends and patterns in store sales over a certain period of time. From this graph, we can observe that the sales of Type A and Type B stores have been increasing while the sales of Type C stores have been decreasing. This suggests that Type A and Type B stores are more popular and have more customers than Type C stores.
+
+* Size of all stores, This visualization helps to quickly identify which stores are the largest and smallest in terms of size. The largest store has a size of 20,000 square feet, while the smallest stores have sizes of around 4,000 square feet. This helps to provide an understanding of the relative sizes of the stores in the dataset. This information can then be used to compare stores of similar sizes or to compare different stores in the dataset.
+
+
 
 ## Model Classification
 * Step 1 : We are splitting the 45 stores into 30 and 15

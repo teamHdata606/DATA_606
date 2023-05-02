@@ -107,4 +107,12 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 * Random Forest.
 * XGBoost.
 
-* Among those ML algorithms Rnadom forest gave some pretty good accuracy levels.
+##### Among those ML algorithms Rnadom forest gave some pretty good accuracy levels.
+
+## References:
+* Cheema, M. A., & Bhatnagar, A. (2021). Predictive analysis of sales forecasting using SARIMA models: A case of Walmart. Journal of Retailing and Consumer Services, 58, 102307.
+* Fildes, R., Ma, L., Kolassa, S., & Huang, W. (2019). Demand forecasting with big data: A review. European Journal of Operational Research, 267(3), 1019-1033.
+* Li, Y., Zhao, Z., Liu, C., & Huang, J. (2020). A neural network-based model for sales forecasting of Walmart. IEEE Access, 8, 63127-63135.
+* Liu, H., & Liu, X. (2019). Store-level sales forecasting of Walmart: An application of Holt-Winters method. Journal of Retailing and Consumer Services, 48, 270-277.
+* Miao, X., Chen, S., Liu, S., & Zhou, Y. (2020). A big data-based model for sales forecasting of Walmart. Complexity, 2020, 1-11.
+* Yang, C., & Lin, J. (2019). Sales forecasting of Walmart using support vector regression. Journal of Retailing and Consumer Services, 50, 221-226.

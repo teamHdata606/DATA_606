@@ -53,10 +53,6 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 
 * Additionally, we will utilize data visualization to explore the data and identify trends. We believe that combining these methods will enable us to better understand the data and make more accurate predictions about future sales. This approach is different from what others have done with this dataset as it uses a combination of different methods to get a better understanding of the data
 
-
-
-
-
 ## Steps taken before Performing Exploratory Data Analysis.
 * Merging the existing three datasets into one.
 * Considering records which are having positive weekly_sales.
@@ -83,6 +79,21 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 * Calculating the sales for each type of store, It gives us an idea of the trends and patterns in store sales over a certain period of time. From this graph, we can observe that the sales of Type A and Type B stores have been increasing while the sales of Type C stores have been decreasing. This suggests that Type A and Type B stores are more popular and have more customers than Type C stores.
 
 * Size of all stores, This visualization helps to quickly identify which stores are the largest and smallest in terms of size. The largest store has a size of 20,000 square feet, while the smallest stores have sizes of around 4,000 square feet. This helps to provide an understanding of the relative sizes of the stores in the dataset. This information can then be used to compare stores of similar sizes or to compare different stores in the dataset.
+
+
+## Time series Analysis
+
+* The given time-series data collection is assumed by the time series models to be stationary, which means that its mean and variance are both constant. 
+
+* To determine whether or not the series is stationary, we used the Augumented Dicky Fuller test.
+
+* As we can see that our p-value is definitely less than (0.5) and is even less than (0.01). So, we can say with pretty good confidence that we can reject the null (unit root, non-stationary data) and can assume our data is stationary
+
+* Additionally, our ADF is much less than our (1%) confidence value of (-3.43), so we have another confirmation that we can reject the null hypothesis.
+
+* We chose Auto-ARIMA over ARIMA because it is difficult and time-consuming to find the ideal values for the number of Auto Regressors (p), number of Moving Averages (q), and Integrated (difference, d) in an ARIMA model. In Auto-ARIMA, the triplet (p, q, d) values are displayed automatically based on the least AIC and BIC scores, which happens to be more essential because it better reflects the model.
+
+* We see that this method has quite correctly fitted the test values. Below are the performance metrics for Holt-Winters method.
 
 
 ## Model Classification

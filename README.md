@@ -31,9 +31,9 @@ Unemployment
 IsHoliday
 
 ## Brief Literature
-* ### Time series analysis: 
-Several studies have used time series analysis to forecast Walmart's sales. For instance, Cheema and Bhatnagar (2021) used the seasonal autoregressive integrated moving average (SARIMA) model to predict Walmart's sales. They found that SARIMA outperforms other traditional forecasting models, such as exponential smoothing and ARIMA. Similarly, Liu and Liu (2019) applied the Holt-Winters method to forecast Walmart's sales at the store level. They found that the method outperforms other time series models in terms of accuracy.
-* ### Machine learning: 
+### Time series analysis: 
+* Several studies have used time series analysis to forecast Walmart's sales. For instance, Cheema and Bhatnagar (2021) used the seasonal autoregressive integrated moving average (SARIMA) model to predict Walmart's sales. They found that SARIMA outperforms other traditional forecasting models, such as exponential smoothing and ARIMA. Similarly, Liu and Liu (2019) applied the Holt-Winters method to forecast Walmart's sales at the store level. They found that the method outperforms other time series models in terms of accuracy.
+### Machine learning: 
 * Machine learning techniques, such as neural networks and support vector machines, have also been applied to Walmart's sales forecasting. For example, Li et al. (2020) developed a neural network-based model to predict Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and exponential smoothing. Similarly, Yang and Lin (2019) applied support vector regression to forecast Walmart's sales. They found that the method outperforms other machine learning models, such as artificial neural networks and decision trees.
 
 

@@ -60,6 +60,10 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 * Considering records which are having positive weekly_sales.
 * Merging the markdown columns into one unified column.
 
+### Exploratory Data Analysis
+* Corealation matrix on finilized and cleaned dataset features
+* 
+
 ## Model Classification
 * Step 1 : We are splitting the 45 stores into 30 and 15
 * Step 2 : And then again we are splitting the 30 stores into 20 and 10 stores.

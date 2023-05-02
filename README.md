@@ -53,12 +53,12 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 
 * Additionally, we will utilize data visualization to explore the data and identify trends. We believe that combining these methods will enable us to better understand the data and make more accurate predictions about future sales. This approach is different from what others have done with this dataset as it uses a combination of different methods to get a better understanding of the data
 
-## Steps taken before Performing Exploratory Data Analysis.
+### Steps taken before Performing Exploratory Data Analysis.
 * Merging the existing three datasets into one.
 * Considering records which are having positive weekly_sales.
 * Merging the markdown columns into one unified column.
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 * Correlation matrix on finilized and cleaned dataset features
 

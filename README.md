@@ -4,37 +4,40 @@ Link to the dataset: https://www.kaggle.com/c/walmart-recruiting-store-sales-for
 
 This dataset includes historical sales information for 45 establishments spread across several geographies. The aim is to project the sales for each department in each store, each of which has multiple departments.In this dataset we have 3 csv files.Every year, Walmart holds a number of special markdown sales. The Super Bowl, Labor Day, Thanksgiving, and Christmas are the four biggest holidays that these markdowns coincide with. In comparison to non-holiday weeks, the assessment of the weeks that include these holidays is weighted five times more heavily. Modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data is one of the challenges posed by this competition.
 
-Train.csv (5)
+### Train.csv (5)
 * Store
 * Dept
 * Date
 * Weekly_sales
 * IsHoliday
 
-Stores.Csv (3)
-Store
-Type
-Size 
+### Stores.Csv (3)
+* Store
+* Type
+* Size 
 
-Features.Csv (12)
-Store
-Date
-Temperature 
-Fuel_price
-Markdown1
-Markdown2
-Markdown3
-Markdown4
-Markdown5
-CPI
-Unemployment 
-IsHoliday
+### Features.Csv (12)
+* Store
+* Date
+* Temperature 
+* Fuel_price
+* Markdown1
+* Markdown2
+* Markdown3
+* Markdown4
+* Markdown5
+* CPI
+* Unemployment 
+* IsHoliday
 
 ## Brief Literature
+
 ### Time series analysis: 
 * Several studies have used time series analysis to forecast Walmart's sales. For instance, Cheema and Bhatnagar (2021) used the seasonal autoregressive integrated moving average (SARIMA) model to predict Walmart's sales. They found that SARIMA outperforms other traditional forecasting models, such as exponential smoothing and ARIMA. Similarly, Liu and Liu (2019) applied the Holt-Winters method to forecast Walmart's sales at the store level. They found that the method outperforms other time series models in terms of accuracy.
+
 ### Machine learning: 
 * Machine learning techniques, such as neural networks and support vector machines, have also been applied to Walmart's sales forecasting. For example, Li et al. (2020) developed a neural network-based model to predict Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and exponential smoothing. Similarly, Yang and Lin (2019) applied support vector regression to forecast Walmart's sales. They found that the method outperforms other machine learning models, such as artificial neural networks and decision trees.
+
 ### Big Data analytics: 
 * Big data analytics has emerged as a powerful tool for Walmart's sales forecasting. For instance, Miao et al. (2020) developed a big data-based model to forecast Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and Holt-Winters. Similarly, Fildes et al. (2019) used a big data approach to improve the accuracy of Walmart's sales forecasts. They found that incorporating external data, such as weather and economic indicators, improves the accuracy of the forecasts.
 * One of the biggest differences between the outcomes of the various studies done on the Walmart Recruiting Store Sales Forecasting competition is the approach taken to forecasting sales. Some studies have focused on traditional forecasting methods such as time series analysis, while others have explored more innovative techniques such as machine learning and Big data Analytics. Another difference between the studies is the amount of data used to train the models. 

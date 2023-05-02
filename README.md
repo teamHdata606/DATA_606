@@ -31,7 +31,7 @@ Unemployment
 IsHoliday
 
 
-### Steps taken before Performing Eexploratory Data Analysis.
+### Steps taken before Performing Exploratory Data Analysis.
 * Merging the existing three datasets into one.
 * Considering records which are having positive weekly_sales.
 * Merging the markdown columns into one unified column.

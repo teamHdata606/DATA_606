@@ -35,6 +35,19 @@ IsHoliday
 * Several studies have used time series analysis to forecast Walmart's sales. For instance, Cheema and Bhatnagar (2021) used the seasonal autoregressive integrated moving average (SARIMA) model to predict Walmart's sales. They found that SARIMA outperforms other traditional forecasting models, such as exponential smoothing and ARIMA. Similarly, Liu and Liu (2019) applied the Holt-Winters method to forecast Walmart's sales at the store level. They found that the method outperforms other time series models in terms of accuracy.
 ### Machine learning: 
 * Machine learning techniques, such as neural networks and support vector machines, have also been applied to Walmart's sales forecasting. For example, Li et al. (2020) developed a neural network-based model to predict Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and exponential smoothing. Similarly, Yang and Lin (2019) applied support vector regression to forecast Walmart's sales. They found that the method outperforms other machine learning models, such as artificial neural networks and decision trees.
+### Big Data analytics: 
+* Big data analytics has emerged as a powerful tool for Walmart's sales forecasting. For instance, Miao et al. (2020) developed a big data-based model to forecast Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and Holt-Winters. Similarly, Fildes et al. (2019) used a big data approach to improve the accuracy of Walmart's sales forecasts. They found that incorporating external data, such as weather and economic indicators, improves the accuracy of the forecasts.
+* One of the biggest differences between the outcomes of the various studies done on the Walmart Recruiting Store Sales Forecasting competition is the approach taken to forecasting sales. Some studies have focused on traditional forecasting methods such as time series analysis, while others have explored more innovative techniques such as machine learning and Big data Analytics. Another difference between the studies is the amount of data used to train the models. 
+* Some models have used only a few months of data, while others have used years of data. Additionally, the types of features used to train the models have varied between studies, with some using only store and item level features while others have used weather and macroeconomic indicators as well. Finally, some studies have been more successful than others in terms of performance metrics such as accuracy, precision, recall, and RMSE.
+
+## Proposed Solutions
+* Others approached a variety of methods to analyze the Walmart Store Sales Forecasting dataset. These include feature selection and extraction, as well as classification and regression. Feature selection and extraction are used to identify the important features that best describe the data. Classification and regression are used to make predictions about sales based on the data.
+
+* Our proposed methods are to use a combination of feature engineering, exploratory data analysis, data visualization, and supervised machine learning algorithms. Specifically, we plan to use Linear regression, Random Forest, Decision Tree, and XGBoost algorithms to predict future sales and use Random Forest to identify the most important features and Gradient Boosting and XGBoost to predict the sales based on the selected features. 
+Here we are splitting the 45 stores into 30 and 15 and then again splitting the 30 into 20 and 10 
+
+* Additionally, we will utilize data visualization to explore the data and identify trends. We believe that combining these methods will enable us to better understand the data and make more accurate predictions about future sales. This approach is different from what others have done with this dataset as it uses a combination of different methods to get a better understanding of the data
+
 
 
 

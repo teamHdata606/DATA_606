@@ -40,7 +40,9 @@ This dataset includes historical sales information for 45 establishments spread 
 
 ### Big Data analytics: 
 * Big data analytics has emerged as a powerful tool for Walmart's sales forecasting. For instance, Miao et al. (2020) developed a big data-based model to forecast Walmart's sales. They found that the model outperforms other traditional models, such as ARIMA and Holt-Winters. Similarly, Fildes et al. (2019) used a big data approach to improve the accuracy of Walmart's sales forecasts. They found that incorporating external data, such as weather and economic indicators, improves the accuracy of the forecasts.
+
 * One of the biggest differences between the outcomes of the various studies done on the Walmart Recruiting Store Sales Forecasting competition is the approach taken to forecasting sales. Some studies have focused on traditional forecasting methods such as time series analysis, while others have explored more innovative techniques such as machine learning and Big data Analytics. Another difference between the studies is the amount of data used to train the models. 
+
 * Some models have used only a few months of data, while others have used years of data. Additionally, the types of features used to train the models have varied between studies, with some using only store and item level features while others have used weather and macroeconomic indicators as well. Finally, some studies have been more successful than others in terms of performance metrics such as accuracy, precision, recall, and RMSE.
 
 ## Proposed Solutions
@@ -81,7 +83,6 @@ Here we are splitting the 45 stores into 30 and 15 and then again splitting the 
 * Calculating the sales for each type of store, It gives us an idea of the trends and patterns in store sales over a certain period of time. From this graph, we can observe that the sales of Type A and Type B stores have been increasing while the sales of Type C stores have been decreasing. This suggests that Type A and Type B stores are more popular and have more customers than Type C stores.
 
 * Size of all stores, This visualization helps to quickly identify which stores are the largest and smallest in terms of size. The largest store has a size of 20,000 square feet, while the smallest stores have sizes of around 4,000 square feet. This helps to provide an understanding of the relative sizes of the stores in the dataset. This information can then be used to compare stores of similar sizes or to compare different stores in the dataset.
-
 
 
 ## Model Classification
